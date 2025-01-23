@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/hook.jpg
 title: "Hooked"
-date: 2023
+date: 2024
 published: true
 labels:
   - Java
