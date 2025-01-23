@@ -12,7 +12,7 @@ summary: "This is an audio streaming app that allows users to listen to podcasts
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img//earie.png" class="img-thumbnail" > 
+  <img width="500px" src="../img//earie.png" class="img-thumbnail" > 
 
 </div>
 
