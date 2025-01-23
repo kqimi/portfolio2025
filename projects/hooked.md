@@ -6,10 +6,10 @@ title: "Hooked"
 date: 2023
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Java
+  - Git
+summary: "Our fishing game, ‘Hooked!”, pits two players against each other in a year-long fishing competition. Each player will have a chance to fish every month, giving them 12 opportunities each to reel in the biggest catch. This is a text-based Fishing Tournament game designed for two players, built in Java and utilizing object-oriented programming principles with dedicated classes for different types of fish.
+"
 ---
 
 <div class="text-center p-4">
