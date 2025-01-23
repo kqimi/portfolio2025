@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/unsplash.jpg
+image: img/hook.jpg
 title: "Hooked"
 date: 2023
 published: true
