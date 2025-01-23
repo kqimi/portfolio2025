@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/unsplash.jpg
 title: "Hooked"
 date: 2023
 published: true
