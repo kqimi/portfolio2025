@@ -22,5 +22,5 @@ summary: "Our text-based fishing game, ‘Hooked!”, pits two players against e
 For this project, my main responsibility was to develop the classes for the various types of Hawaiian fish we add to the game, and I also implemented interfaces for the fishes so could change colors and sex as they grow. My final job as we finished putting the game together was to make sure our checkstyle was on point. Throughout this project, we incorporated different ideas to create new rules. For instance, we later coded a method that gives the player an option to either fish or feed the fish for the month, which in turn give an advantage to fishing a larger fish the next month.
 
 
-[View the code]([https://manoa.hawaii.edu/news/article.php?aId=2857](https://github.com/kqimi/Fish-Game]).
+[View the code](https://github.com/kqimi/Fish-Game).
 
