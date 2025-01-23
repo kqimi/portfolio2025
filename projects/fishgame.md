@@ -1,6 +1,6 @@
 ---
 layout: project
-type: project
+type: project 
 image: img/micromouse/micromouse-square.jpg
 title: "Hooked"
 date: 2024
