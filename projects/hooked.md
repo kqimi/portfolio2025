@@ -12,9 +12,8 @@ summary: "Our text-based fishing game, ‘Hooked!”, pits two players against e
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img//gameplay.png" class="img-thumbnail" >
+
 </div>
 
 "Hooked", is a two-player text-based game that I had the pleasure to build with two of my classmates in ICS 211 (Java class). We used Java to create this fishing game where two players compete against each other to see who ultimately has the biggest catch within the course of three months. Throughout the game, players will have the option to cast out for a fish, read the rules, check their sack, and remove fish from their sack. During the game, players can select from different tools from a net to a fishing pole. The tools are used differently and may affect the outcome of the catch. The winner is determined based on the total length of the three largest fish caught by each player.
