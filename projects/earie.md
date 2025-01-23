@@ -16,10 +16,9 @@ summary: "This is an audio streaming app that allows users to listen to podcasts
 
 </div>
 
-"Hooked", is a two-player text-based game that I had the pleasure to build with two of my classmates in ICS 211 (Java class). We used Java to create this fishing game where two players compete against each other to see who ultimately has the biggest catch within the course of three months. Throughout the game, players will have the option to cast out for a fish, read the rules, check their sack, and remove fish from their sack. During the game, players can select from different tools from a net to a fishing pole. The tools are used differently and may affect the outcome of the catch. The winner is determined based on the total length of the three largest fish caught by each player.
+"Earie" is an audio streaming app design I created for my UI class. At the time, storytimes, especially about crimes and mysteries, were incredibly popular. I decided to create a design where enthusiasts could easily access and listen to new crime stories every day. Just like podcasts, why not have an app that reads aloud unsolved mysteries and solved crimes, allowing users to listen whenever they want and when they want, without having to go on Youtube.
 
+As part of this project, I created a flowchart to visualize how users would navigate through the app and determine the most user-friendly experience. After that, wireframes were created to help envision what information and buttons to implement into my design. With the wireframes I was able to start prototyping the app. I had to prototype mulitiple times and use Adobe Illustrator as well as XD to create my final project. 
 
-For this project, my main responsibility was to develop the classes for the various types of Hawaiian fish we add to the game, and I also implemented interfaces for the fishes so could change colors and sex as they grow. My final job as we finished putting the game together was to make sure our checkstyle was on point. Throughout this project, we incorporated different ideas to create new rules. For instance, we later coded a method that gives the player an option to either fish or feed the fish for the month, which in turn give an advantage to fishing a larger fish the next month.
-
-
+[View More](https://kqimi.github.io/portfolio2024/earie/earie.html).
 
