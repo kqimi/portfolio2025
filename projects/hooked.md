@@ -25,6 +25,4 @@ For this project, my main responsibility was to develop the classes for the vari
 
 
 
-```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
