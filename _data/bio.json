@@ -10,22 +10,19 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "kqimi", "url": "http://github.com/kqimi" },
-      { "network": "linkedin", "username": "Kimi Li", "url": "http://linkedin.com/in/kimi-li-9a82aa274" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "Kimi Li", "url": "http://linkedin.com/in/kimi-li-9a82aa274" }
+
     ]
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "UI/UX Design" },
+    { "name": "Video games development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
@@ -35,9 +32,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2026)",
+      "studyType": "B.A.",
+      "startDate": "2023-08-01",
       "endDate": "Present",
       "courses": [
       ]
