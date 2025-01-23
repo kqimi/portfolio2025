@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hero-earie.png
+image: img/pokemon.jpg
 title: "Pokemon Team"
 date: 2023
 published: true
@@ -12,7 +12,7 @@ summary: "This is a text-based Pokemon-Team builder, where you can build a team 
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img//earie.png" class="img-thumbnail" > 
+  <img width="500px" src="../img//pokecode.png" class="img-thumbnail" > 
 
 </div>
 
