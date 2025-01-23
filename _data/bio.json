@@ -43,11 +43,11 @@
   "work": [
     {
       "company": "Shabuya",
-      "position": "Server",
-      "website": "",
+      "position": "",
+      "website": "Server",
       "startDate": "2024-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
         "Efficiently manage a fast-paced work environment to accommodate guests within the restaurant’s time limit.",
         "Accurately take and serve customer orders, ensuring timely delivery of broth, ingredients, beverages."
@@ -55,44 +55,30 @@
     },
     {
       "company": "Suntory Restaurant",
-      "position": "Server",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "position": "",
+      "website": "Server",
+      "startDate": "2022-10-01",
+      "endDate": "2024-07-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Provided attentive and personalized service to guests, ensuring a high-quality dining experience.",
+        "Having in-depth knowledge of the restaurant’s menu, including the Japanese ingredients and preparations."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "company": "Board of Student Publications Staff at Kapiolani Community College",
+      "position": "",
+      "website": "Intern",
+      "startDate": "2023-03-01",
+      "endDate": "2023-04-15",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Collaborated with another designer to create layouts for two magazines.",
+        "Incorporated feedbacks from advisor to refine designs and layout."
       ]
     }
   ],
+
   "awards": [
     {
       "title": "B+ Scholarship",
